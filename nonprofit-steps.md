@@ -1,12 +1,12 @@
 ## Getting started in Ten Easy Steps
 If you’re looking to start a Michigan nonprofit organization, you’re in the right place. This guide will help you file formation documents, obtain tax identification numbers, and register for fundraising.
 
-## 1.  Before You Begin...
+### 1.  Before You Begin...
 Before you begin, take a moment to consider if you should start a new non-profit organization. According to the National Center for Charitable Statistics, there were over 50,000 nonprofit organizations in Michigan in 2009. Before deciding a new nonprofit is necessary...
 - Research if an organization already exists in your area that serves your cause. By working together you avoid diluting the effect of fundraising dollars and volunteer hours available in your geography.
 - Consider fiscal sponsorship, in which an umbrella 501(c) organization incubates your charitable nonprofit. Fiscal sponsors permit your cause to receive tax-deductible donations and often handle administrative paperwork.
 
-## 2.  Prepare to Incorporate
+### 2.  Prepare to Incorporate
 This article assumes that you will be creating a new nonprofit corporation, the most common legal structure. Check availability of your desired name. The legal name of the nonprofit corporation may not conflict with any other registered name.
 
 **Name Search:**
@@ -17,7 +17,7 @@ This article assumes that you will be creating a new nonprofit corporation, the 
 
 - Identify the nonprofit’s registered agent. This individual or company receives notice of lawsuit and other legal service for the corporation.
 
-## 3.  File Michigan Nonprofit Articles of Incorporation
+### 3.  File Michigan Nonprofit Articles of Incorporation
 File articles of incorporation to create your non-profit corporation.
 
 **Submit to:**
@@ -41,13 +41,13 @@ http://www.michigan.gov/lara
 
 **Warning:**  The IRS requires specific language in the articles of incorporation to qualify for 501(c)(3) federal tax exemption. Refer to [IRS Pub 557](https://www.irs.gov/pub/irs-pdf/p557.pdf) for guidance and sample language.
 
-## 4. Establish Company Records, Bylaws, and Hold First Meeting
+### 4. Establish Company Records, Bylaws, and Hold First Meeting
 Your filed articles of incorporation are the first document for your nonprofit corporate records. Office supplies intended for nonprofit corporations help you stay organized and save time: optionally, get a company record book, seal, and templates.
 
 Create bylaws (potentially using a template), which is the governing document for the nonprofit. This document defines how the corporation will run itself. You do not have to file them with the state; keep them in your company records.
 Hold the first meeting of the board of directors. At this meeting, the nonprofit should approve the bylaws, elect additional directors, appoint officers, and approve initial resolutions such as opening a company bank account. Keep minutes of this meeting.
 
-## 5. Get a Federal Employer Identification Number (EIN)
+### 5. Get a Federal Employer Identification Number (EIN)
 Your nonprofit must obtain an EIN regardless of whether it will hire employees.
 
 **Submit to:** Internal Revenue Service http://www.irs.gov/
@@ -60,7 +60,7 @@ Your nonprofit must obtain an EIN regardless of whether it will hire employees.
 
 **Notes:**  The IRS website is only available during certain hours. Print your EIN before closing your session.
 
-## 6. Get Michigan State Tax Identification Numbers/Accounts
+### 6. Get Michigan State Tax Identification Numbers/Accounts
 Register with the Department of Treasury for Sales Tax, Use Tax, Income Tax Withholding, Corporate Income Tax, Flow Through Withholding, Unemployment Insurance Tax.
 
 **Submit to:**
@@ -74,7 +74,7 @@ Fee:  $0
 
 **Notes:**  Mail your application at least six weeks but not more than six months, before you intend to start your business to allow your registration to be processed. The treasury will forward your application to Unemployment Insurance Agency (UIA).
 
-## 7. Apply for 501(c)
+### 7. Apply for 501(c)
 This is most difficult and costly step of setting up a nonprofit.
 - **Submit to:**
 Internal Revenue Service
@@ -87,7 +87,7 @@ http://www.irs.gov/
 - **Fee:**  $200 or $850
 - **Turnaround:** ~3-6 months.  The IRS will return a Determination Letter which officially recognized your exemption.
 
-## 8. Apply for Michigan Tax Exemption(s)
+### 8. Apply for Michigan Tax Exemption(s)
 Nonprofits are exempt from Michigan's 6% Michigan Corporate Income Tax (CIT). **No filing is needed.**
 501(c)(3) organizations are automatically exempt from sales and use tax on purchases. No application is needed, simply start presenting Form 3372 and your IRS Determination Letter to sellers.
 
@@ -99,7 +99,7 @@ Nonprofits are exempt from Michigan's 6% Michigan Corporate Income Tax (CIT). **
 Michigan Department of Treasury
 http://michigan.gov/taxes
 
-## 9. Register for Charitable Solicitation / Fundraising
+### 9. Register for Charitable Solicitation / Fundraising
 Before soliciting any funds or hiring solicitors, you must complete your charitable organization registration in each state where you will raise funds.
 
 To file only in Michigan:
@@ -117,7 +117,7 @@ Verify that the attorney general's office received the registration form by sear
 
 Following review if your initial registration or exemption, the Attorney General may instruct your organization to complete additional forms.
 
-## 10. Obtain Business Licenses & Permits
+### 10. Obtain Business Licenses & Permits
 To run your business legally, you must obtain applicable licenses and permits. The easiest way to navigate the wide range of federal, state, and local requirements is to search by your business type and locality using the [Small Business Administration Business License & Permit look-up tool.](https://www.sba.gov/starting-business/business-licenses-permits/state-licenses-permits)
 
 Nonprofits who wish to conduct bingo, raffles, and other charitable games must obtain a license.
