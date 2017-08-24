@@ -10,7 +10,33 @@
 
 **Data:** n/a
 
-### Getting started:  -- Outline each project will have it's own
+### Overview
+If you’re looking to start a Michigan nonprofit organization, you’re in the right place. This guide will help you file formation documents, obtain tax identification numbers, and register for fundraising.
+
+**Paperwork:**
+- State of Michigan Form CSCL/CD-502: Articles of Incorporation for use by Domestic Nonprofit Corporations or Form CSCL/CD-503: Articles of Incorporation for use by Ecclesiastical Corporations
+- Bylaws
+- IRS Form SS-4: Apply for EIN
+- IRS Form 1023: Application for 501(c)(3) Exemption
+- IRS Determination Letter
+- Form 518: Registration for Business Taxes
+- Form 3372: Michigan Sales and Use Tax Certificate of Exemption
+- URS Charitable Registration, if applicable
+- Michigan Initial Solicitation Registration Form
+
+**Cost:**
+- State of Michigan Incorporation: $20 + optional $50-1,000 expedite service
+- 501(c): $200 - $850 IRS fee
+
+**Time:**
+- State of Michigan Incorporation: ~5-7 business days with returned documents in ~4 weeks. ~24 hours for $50. Same day for $100. 2 hours for $500. 1 hour for $1,000.
+- 501(c): ~3-6 months
+
+### Getting started
+
+
+
+
 * We welcome contributions from first timers / leave this out if you're not "beginner friendly"
 * Browse our help wanted issues. See if there is anything that interests you.
 * Core maintainers and project guides are responsible for reviewing and merging all pull requests. In order to prevent frustrations with your first PR we recommend you reach out to our core maintainers who can help you through your first PR.
