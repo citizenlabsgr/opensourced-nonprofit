@@ -2,13 +2,22 @@
 
 **Slack:** #501c3
 
-**Project Description:** This project will outline the steps to become a recognized 501c3 nonprofit based in the state of Michigan. Becoming a 501c3 is an IRS designation (federal government), prior to that you must organize in the state in which you are located, our nonprofit was formed in Michigan.
+**Project Description:** This project will outline the steps to become a recognized 501c3 nonprofit based in the state of Michigan. Becoming a 501c3 is an IRS designation (federal government), prior to that you must organize in the state in which you are located which may have different rules then Michigan.
 
 **Project Guide:**  
 
 * Allen Clark
 
 **Data:** n/a
+
+### Skills
+Skills you may learn or already posses relevant to this project.
+
+* Outreach/Storytelling
+* Policy & Engagement
+* Product Management
+* Strategy
+* Talent
 
 ### Overview
 If you’re looking to start a Michigan nonprofit organization, you’re in the right place. This guide will help you file formation documents, obtain tax identification numbers, and register for fundraising.
@@ -32,24 +41,8 @@ If you’re looking to start a Michigan nonprofit organization, you’re in the 
 - State of Michigan Incorporation: ~5-7 business days with returned documents in ~4 weeks. ~24 hours for $50. Same day for $100. 2 hours for $500. 1 hour for $1,000.
 - 501(c): ~3-6 months
 
-### Getting started
+## Getting Started
 
-
-
-
-* We welcome contributions from first timers / leave this out if you're not "beginner friendly"
-* Browse our help wanted issues. See if there is anything that interests you.
-* Core maintainers and project guides are responsible for reviewing and merging all pull requests. In order to prevent frustrations with your first PR we recommend you reach out to our core maintainers who can help you through your first PR.
-* Need to practice working with github in a group setting? Checkout [github-playground](https://github.com/citizenlabsgr/open-lab)
-* Updates to documentation or readme are greatly appreciated and make for a great first PR. They do not need to be discussed in advance and will be merged as soon as possible.
-
-
-### Skills
-* Outreach/Storytelling
-* Policy & Engagement
-* Product Management
-* Strategy
-* Talent
-
-
-#### .... rest of readme
+- Getting started in Ten Easy Steps
+- Resources
+- 
