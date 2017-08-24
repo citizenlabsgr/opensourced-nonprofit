@@ -2,8 +2,7 @@
 
 **Slack:** #501c3
 
-**Project Description:**
-
+**Project Description:** This project will outline the steps to become a recognized 501c3 nonprofit based in the state of Michigan. Becoming a 501c3 is an IRS designation (federal government), prior to that you must organize in the state in which you are located, our nonprofit was formed in Michigan.
 
 **Project Guide:**  
 
@@ -20,7 +19,11 @@
 
 
 ### Skills
-* Skills you may learn or already posses relevant to this project.
+* Outreach/Storytelling
+* Policy & Engagement
+* Product Management
+* Strategy
+* Talent
 
 
 #### .... rest of readme
