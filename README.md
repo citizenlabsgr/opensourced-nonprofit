@@ -43,6 +43,12 @@ If you’re looking to start a Michigan nonprofit organization, you’re in the 
 
 ## Getting Started
 
-- Getting started in Ten Easy Steps
-- Resources
-- 
+- [Getting started in Ten Easy Steps](https://github.com/citizenlabsgr/opensourced-nonprofit/blob/master/nonprofit-steps.md)
+
+**Resources**
+ - Resources for [creating your bylaws](https://github.com/citizenlabsgr/opensourced-nonprofit/blob/master/Bylaws-Resources.md)
+ - Resources for [creating a budget](https://github.com/citizenlabsgr/opensourced-nonprofit/blob/master/Budget-Preperation.md)
+
+ **Document Examples from Citizen Labs**
+ - [Articles of Incorporation]()
+ - [Bylaws]()
