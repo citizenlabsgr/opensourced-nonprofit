@@ -47,6 +47,8 @@ Your filed articles of incorporation are the first document for your nonprofit c
 Create bylaws (potentially using a template), which is the governing document for the nonprofit. This document defines how the corporation will run itself. You do not have to file them with the state; keep them in your company records.
 Hold the first meeting of the board of directors. At this meeting, the nonprofit should approve the bylaws, elect additional directors, appoint officers, and approve initial resolutions such as opening a company bank account. Keep minutes of this meeting.
 
+- [Organization Records - Citizen Labs examples:](https://github.com/citizenlabsgr/community/tree/master/governance)
+
 ### 5. Get a Federal Employer Identification Number (EIN)
 Your nonprofit must obtain an EIN regardless of whether it will hire employees.
 
