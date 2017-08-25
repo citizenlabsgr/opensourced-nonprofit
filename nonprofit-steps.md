@@ -89,7 +89,7 @@ http://www.irs.gov/
 - **Fee:**  $275 or $850
 - **Turnaround:** ~3-6 months.  The IRS will return a Determination Letter which officially recognized your exemption.
 
-### 8. Apply for Michigan Tax Exemption(s)
+### 8. Michigan Tax Exemption(s)
 Nonprofits are exempt from Michigan's 6% Michigan Corporate Income Tax (CIT). **No filing is needed.**
 501(c)(3) organizations are automatically exempt from sales and use tax on purchases. No application is needed, simply start presenting Form 3372 and your IRS Determination Letter to sellers.
 
@@ -132,8 +132,8 @@ Nonprofits who wish to conduct bingo, raffles, and other charitable games must o
 - **Turnaround:** ~8 weeks
 - **Law:**  [Michigan Charitable Gaming](http://www.gambling-law-us.com/Charitable-Gaming/Michigan/)
 
-**Ongoing filings**
-You must file federal and state tax returns. You must also file:
+### 11. Ongoing Filings
+You must file federal ([Form 990](https://www.irs.gov/uac/about-form-990)) and state tax returns. You must also file:
 - Michigan nonprofit corporations must file an annual report.
 
 **Submit to:**
