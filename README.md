@@ -35,7 +35,7 @@ If you’re looking to start a Michigan nonprofit organization, you’re in the 
 
 **Cost:**
 - State of Michigan Incorporation: $20 + optional $50-1,000 expedite service
-- 501(c): $200 - $850 IRS fee
+- 501(c): $275 - $850 IRS fee
 
 **Time:**
 - State of Michigan Incorporation: ~5-7 business days with returned documents in ~4 weeks. ~24 hours for $50. Same day for $100. 2 hours for $500. 1 hour for $1,000.

@@ -86,7 +86,7 @@ http://www.irs.gov/
 - **Instructions:**  [IRS Instructions for Form 1023](https://www.irs.gov/pub/irs-pdf/i1023.pdf)
 - **Guidance:**  [IRS Pub 557:](https://www.irs.gov/pub/irs-pdf/p557.pdf) Tax-Exempt Status for Your Organization
 - **Filing Method:**  Mail
-- **Fee:**  $200 or $850
+- **Fee:**  $275 or $850
 - **Turnaround:** ~3-6 months.  The IRS will return a Determination Letter which officially recognized your exemption.
 
 ### 8. Apply for Michigan Tax Exemption(s)
